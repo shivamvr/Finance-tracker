@@ -8,6 +8,6 @@ const root = createRoot(rootElement);
 
 root.render(
   <BrowserRouter>
-    <App />
+    <App /> 
   </BrowserRouter>
 );
