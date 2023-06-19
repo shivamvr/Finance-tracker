@@ -1,0 +1,82 @@
+{
+  "income": [
+    {
+      "title": "July salary",
+      "amount": 6000,
+      "date": "2023-06-30T18:30:00.000Z",
+      "category": "salary",
+      "description": "Salary receive at 1pm",
+      "id": 2
+    },
+    {
+      "title": "Cripto",
+      "amount": 50000,
+      "date": "2023-06-18T18:30:00.000Z",
+      "category": "bitcoin",
+      "description": "",
+      "id": 3
+    },
+    {
+      "title": "Freelance",
+      "amount": 50000,
+      "date": "2023-06-02T18:30:00.000Z",
+      "category": "freelancing",
+      "description": "",
+      "id": 4
+    },
+    {
+      "title": "UPI",
+      "amount": 2998,
+      "date": "2023-06-04T18:30:00.000Z",
+      "category": "bank",
+      "description": "",
+      "id": 5
+    },
+    {
+      "title": "Bitcoin",
+      "amount": 100000,
+      "date": "2023-06-14T18:30:00.000Z",
+      "category": "bitcoin",
+      "description": "",
+      "id": 6
+    }
+  ],
+  "expense": [
+    {
+      "title": "Shoes",
+      "amount": 5000,
+      "date": "2023-06-04T18:30:00.000Z",
+      "category": "clothing",
+      "description": "Nike white shoes",
+      "type": "expense",
+      "id": 4
+    },
+    {
+      "title": "headphone",
+      "amount": 15000,
+      "date": "2023-06-02T18:30:00.000Z",
+      "category": "other",
+      "description": "",
+      "type": "expense",
+      "id": 5
+    },
+    {
+      "title": "car emi",
+      "amount": 30000,
+      "date": "2025-01-30T18:30:00.000Z",
+      "category": "travelling",
+      "description": "",
+      "type": "expense",
+      "id": 6
+    },
+    {
+      "title": "IPhone",
+      "amount": 149839,
+      "date": "",
+      "category": "other",
+      "description": "",
+      "type": "expense",
+      "id": 7
+    }
+  ]
+}
