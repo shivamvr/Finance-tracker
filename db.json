@@ -70,13 +70,13 @@
       "id": 6
     },
     {
-      "title": "IPhone",
-      "amount": 149839,
-      "date": "",
+      "title": "Watch",
+      "amount": 50000,
+      "date": "2023-06-12T18:30:00.000Z",
       "category": "other",
       "description": "",
       "type": "expense",
-      "id": 7
+      "id": 8
     }
   ]
 }
