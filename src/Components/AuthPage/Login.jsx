@@ -41,35 +41,37 @@ const Login = ({toggleHandler,userHandler}) => {
 };
 
 const LoginStyled = styled.div`
+  /* min-width: 100vw; */
+  /* min-height: 80vh; */
   margin-top: 3rem;
   display: flex;
-  background: pink;
-  background: #b9ffcd36;
+  /* background: pink; */
   align-items: center;
   flex-direction: column;
-  justify-content: center;
+  /* justify-content: center; */
   form {
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background: skyblue;
+    /* background: skyblue; */
     gap: 1rem;
 }
 input {
     outline: none;
     border-radius: 4px;
     color: #333;
-    padding: 10px;
+    padding: 12px;
     width: 300px;
     border: solid 1px #ccc;
 }
 button {
     color: #333;
-    border: solid 1px #ccc;
+    border: none;
     width: fit-content;
+    background: #B8FF4A;
     border-radius: 4px;
-    padding: 8px 14px;
+    padding: 9px 14px;
     cursor: pointer;
     outline: none
   }

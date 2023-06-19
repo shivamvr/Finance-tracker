@@ -37,8 +37,12 @@ const AuthPage = ({ userHandler }) => {
 };
 
 const AuthStyled = styled.div`
-  background: linear-gradient(180deg, yellow 50%, #b8ff4a 100%);
-  filter: blur(400px);
+  padding: 0;
+  min-height: 102vh;
+  padding-top: 1rem;
+  margin-top: -1rem;
+  background: linear-gradient(180deg, #ffff0028 50%, #c2fc6c48 100%);
+  /* filter: blur(400px); */
 `;
 
 export default AuthPage;
