@@ -1,9 +1,9 @@
 
 Deployed link:-
-# rotten-writing-6104 (https://shimmering-squirrel-2de246.netlify.app/)
+# Finance tracker URL: (https://shimmering-squirrel-2de246.netlify.app/)
 
 # Finance Tracker 
-
+### Description 
 The Finance Tracker is a platform designed to help users track and manage their finances effectively. It offers various features to assist users in monitoring their income, expenses, and overall financial health. The website provides an intuitive interface with interactive charts to visualize financial data and trends.
 
 
